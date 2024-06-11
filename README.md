@@ -5,3 +5,5 @@ _hell0_
 - awesome project
 - yes really awesome
 - yes it is silly
+> qoute this
+> git clone 
