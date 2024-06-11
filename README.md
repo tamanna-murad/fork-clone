@@ -1,9 +1,12 @@
 # fork and clone
 *demostrate the workflow of clone and fork*
 _hell0_
-**there**
 - awesome project
 - yes really awesome
-- yes it is silly
-> qoute this
+- no it's not silly
+- you made it
+> quote this
 > git clone 
+> make some commit
+> then add
+> **yes i made this**
